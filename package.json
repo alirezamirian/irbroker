@@ -1,0 +1,9 @@
+{
+  "name": "irbroker",
+  "title": "IR Broker",
+  "id": "jid1-RTRFxTthV5VqEw",
+  "description": "A small set of complementary tools which irbroker have not included in its website",
+  "author": "Alireza Mirian",
+  "license": "MPL 2.0",
+  "version": "0.13"
+}

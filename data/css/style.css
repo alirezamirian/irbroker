@@ -1,0 +1,29 @@
+#tnav ul li#irbrokeraddon-btnToggleStat a{
+	padding-right: 7px;	
+	color: blue;
+}
+#tnav ul li#irbrokeraddon-btnToggleStat.irbrokeraddon-open a{
+	color: #008912
+}
+#irbrokeraddon-stat{
+	width: 100%;
+	height: 60px;
+	text-align: right;
+}
+#irbrokeraddon-stat{
+	margin-bottom: 50px;
+	display: none;
+}
+#irbrokeraddon-stat .divFotTable{
+	padding: 10px;
+	color: #000;
+	height: auto;
+	padding-bottom: 15px;
+	line-height: 20px;
+}
+.irbrokeraddon-input1{
+	width: 20px;
+	background: none;
+	border: none;
+	text-align: center;
+}
